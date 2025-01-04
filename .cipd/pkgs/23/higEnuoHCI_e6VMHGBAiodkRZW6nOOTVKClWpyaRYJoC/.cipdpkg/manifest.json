@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "skia/tools/goldctl/windows-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "goldctl.exe",
+      "size": 49455104,
+      "hash": "fdFwu4j3EojEeC8LbnpuRzW8nJP08w_7D5hhG61tHzcC"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Loại bỏ thư mục out
+src/out/
+
+# Các file tạm
+*.tmp
+*.log
+
+# Thư mục build và dependencies
+/build/
+/node_modules/
+
+# IDE và editor files
+.idea/
+.vscode/
+*.swp
+*.swo 
