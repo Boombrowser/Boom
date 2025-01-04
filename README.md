@@ -1,8 +1,8 @@
 Cách build:
 
-1. Anh/em tạo thư file out trong src
-2. Anh/em tạo thư file Default trong thư mục out vừa tạo
-3. Anh/em tạo tạo file args.gn trong file Default vừa tạo sau đó paste nội dung như sau
+1. Anh/em tạo file out trong src
+2. Anh/em tạo file Default trong thư mục out vừa tạo
+3. Anh/em tạo file args.gn trong file Default vừa tạo sau đó paste nội dung như sau
       is_component_build = true
       is_debug = false
       symbol_level = 1
